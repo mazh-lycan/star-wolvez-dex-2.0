@@ -1,7 +1,7 @@
 ;Trait;Value;Total;Rarity;PVP;MINING;BATTLE ROYALE;BOSS BATTLE;HOMEBASE
-0;Plasma Rifle Mark I;Accesories;345;0.03885135135135135;Heavy attack does 8 more damage. BOSS BATTLE;;;;
-1;Plasma Rifle Mark II;Accesories;259;0.029166666666666667;Heavy attack does 10 more damage. BOSS BATTLE;;;;
-2;Plasma Rifle Mark Gold;Accesories;78;0.008783783783783784;Heavy attack does 12 more damage. BOSS BATTLE;;;;
+0;Plasma Rifle Mark I;Accesories;345;0.03885135135135135;Heavy attack does 8 more damage.;;;;
+1;Plasma Rifle Mark II;Accesories;259;0.029166666666666667;Heavy attack does 10 more damage.;;;;
+2;Plasma Rifle Mark Gold;Accesories;78;0.008783783783783784;Heavy attack does 12 more damage.;;;;
 3;Frozen Yellow;Background;593;0.03885135135135135;;;;;
 4;Infrared;Background;588;0.029166666666666667;;;;;
 5;Hi-Res Orange;Background;572;0.008783783783783784;;;;;
@@ -167,7 +167,7 @@
 165;Shaggy Magma;Head;73;;Increased likelihood of critical hit by 5%.;;;;
 166;Sandstone;Head;69;;Heavy Attacks from opponent do 10% less damage.;;;;
 167;Synthwave Goggles;Eyes:Headwear:Eyewear;261;0.03885135135135135;5% less likely to be stunned.;;;;
-168;SW Force Goggles Yellow;Eyes:Headwear:Eyewear;255;0.029166666666666667;+5% chance to stun opponent.;;;;
+168;SW Force Goggles Yellow;Eyes:Headwear:Eyewear;255;0.029166666666666667;Additional 5% chance to stun opponent.;;;;
 169;Mine Specialist Goggles;Eyes:Headwear:Eyewear;245;0.008783783783783784;;+3% boost to all mining resources earned in successful missions.;;;
 170;Rogue Runner Glasses;Eyes:Headwear:Eyewear;245;;Light attacks deal 8 more hit points.;;;;
 171;SW Force Goggles Blue;Eyes:Headwear:Eyewear;243;;Additional 5% chance to stun opponent.;;;;
@@ -251,7 +251,7 @@
 249;Brown Stash;Mouth;31;;;;;2% increase in Stardust per successful mission.;
 250;Face Mask White;Mouth;20;;;3% increase in Stardust per successful mission.;;;
 251;Space Hurl;Mouth;18;;;8% increase in Space Elixir per successful mission.;;;
-252;Plasma Blast;Mouth;15;;4% more likely to deal a critical hit.;;;;
+252;Plasma Blast;Mouth;15;;Increased likelihood of critical hit by 4%;;;;
 253;Face Mask Blue;Mouth;14;;;3% increase in Stardust per successful mission.;;;
 254;Golden Stash;Mouth;13;;;8% increase in Neon Gold per successful mission.;;;
 255;Face Mask V2;Mouth;11;;;4% increase in Stardust per successful mission.;;;

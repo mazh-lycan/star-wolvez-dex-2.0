@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Squad</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="your-squad">
+            <h1>YOUR SQUAD</h1>
+            <div class="squad-squares">
+                <div class="squad-square" id="square1"></div>
+                <div class="squad-square" id="square2"></div>
+                <div class="squad-square" id="square3"></div>
+            </div>
+            <div class="squad-info">
+                <p>PVP: <span id="pvp-info"></span></p>
+                <p>PVE: <span id="pve-info"></span></p>
+                <p>Boss Battle: <span id="boss-info"></span></p>
+                <p>Battle Royale: <span id="br-info"></span></p>
+                <p>Mining: <span id="mining-info"></span></p>
+                <p>Passive: <span id="passive-info"></span></p>
+            </div>
+        </div>
+        <div class="filters">
+            <div class="filter-row">
+                <label for="pvp-select">PVP:</label>
+                <select id="pvp-select" onchange="filterCharacters()">
+                    <option value="">Select PVP Buff</option>
+                    <option value="">Select PVP Buff</option>
+                    <option value="Heavy attack does 8 more damage">Heavy attack does 8 more damage</option>
+                    <option value="Heavy attack does 10 more damage">Heavy attack does 10 more damage</option>
+                    <option value="Heavy attack does 12 more damage">Heavy attack does 12 more damage</option>
+                    <option value="+2% likelihood to evade opponent's attack">+2% likelihood to evade opponent's attack</option>
+                    <option value="Heavy Attacks from opponent do 5% less damage">Heavy Attacks from opponent do 5% less damage</option>
+                    <option value="Heavy Attacks from opponent do 7% less damage">Heavy Attacks from opponent do 7% less damage</option>
+                    <option value="Heavy Attacks from opponent do 8% less damage">Heavy Attacks from opponent do 8% less damage</option>
+                    <option value="Heavy Attacks from opponent do 10% less damage">Heavy Attacks from opponent do 10% less damage</option>
+                    <option value="Heavy Attacks from opponent do 15% less damage">Heavy Attacks from opponent do 15% less damage</option>        
+                    <option value="Regenerates 2% HP every 5 rounds">Regenerates 2% HP every 5 rounds</option>
+                    <option value="Regenerates 4% HP every 5 rounds">Regenerates 4% HP every 5 rounds</option>
+                    <option value="Regenerates 7% HP every 5 rounds">Regenerates 7% HP every 5 rounds</option>
+                    <option value="Regenerates 10% HP every 5 rounds">Regenerates 10% HP every 5 rounds</option>
+                    <option value="Heavy Attacks do 10% more damage">Heavy Attacks do 10% more damage</option>
+                    <option value="10% more chance of hiding successfully per turn">10% more chance of hiding successfully per turn</option>
+                    <option value="12% more chance of hiding successfully per turn">12% more chance of hiding successfully per turn</option>
+                    <option value="8% increase in Neon Gold per successful battle">8% increase in Neon Gold per successful battle</option>
+                    <option value="8% increase in Space Elixir per successful battle">8% increase in Space Elixir per successful battle</option>
+                    <option value="Increased likelihood of critical hit by 4%">Increased likelihood of critical hit by 4%</option>
+                    <option value="Increased likelihood of critical hit by 5%">Increased likelihood of critical hit by 5%</option>
+                    <option value="Increased likelihood of critical hit by 8%">Increased likelihood of critical hit by 8%</option>
+                    <option value="5% less likely to be stunned">5% less likely to be stunned</option>
+                    <option value="8% less likely to be stunned">8% less likely to be stunned</option>
+                    <option value="10% less likely to be stunned">10% less likely to be stunned</option>
+                    <option value="12% less likely to be stunned">12% less likely to be stunned</option>
+                    <option value="Light attacks deal 8 more hit points">Light attacks deal 8 more hit points</option>
+                    <option value="Additional 5% chance to stun opponent">Additional 5% chance to stun opponent</option>
+                    <option value="Additional 6% chance to stun opponent">Additional 6% chance to stun opponent</option>
+                </select>
+            </div>
+            <div class="filter-row">
+                <label for="pve-select">PVE:</label>
+                <select id="pve-select" onchange="filterCharacters()">
+                    <option value="">Select PVE Buff</option>
+                    <!-- Add more options here -->
+                </select>
+            </div>
+            <div class="filter-row">
+                <label for="boss-select">Boss Battle:</label>
+                <select id="boss-select" onchange="filterCharacters()">
+                    <option value="">Select Boss Battle Buff</option>
+                    <!-- Add more options here -->
+                </select>
+            </div>
+            <div class="filter-row">
+                <label for="br-select">Battle Royale:</label>
+                <select id="br-select" onchange="filterCharacters()">
+                    <option value="">Select Battle Royale Buff</option>
+                    <!-- Add more options here -->
+                </select>
+            </div>
+            <div class="filter-row">
+                <label for="mining-select">Mining:</label>
+                <select id="mining-select" onchange="filterCharacters()">
+                    <option value="">Select Mining Buff</option>
+                    <!-- Add more options here -->
+                </select>
+            </div>
+            <div class="filter-row">
+                <label for="passive-select">Passive:</label>
+                <select id="passive-select" onchange="filterCharacters()">
+                    <option value="">Select Passive Buff</option>
+                    <!-- Add more options here -->
+                </select>
+            </div>
+        </div>
+        <div id="characters">
+            <!-- Characters will be dynamically loaded here -->
+        </div>
+    </div>
+    <script src="searchorr.js"></script>
+</body>
+</html>

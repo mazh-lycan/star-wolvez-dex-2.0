@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#your-squad {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.squad-squares {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.squad-square {
+    width: 100px;
+    height: 100px;
+    background-color: #ddd;
+    border: 2px solid #bbb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.squad-info p {
+    margin: 5px 0;
+}
+
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.filter-row {
+    flex: 1 1 calc(33.333% - 10px);
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.filter-row label {
+    margin-right: 10px;
+}
+
+#characters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.character {
+    width: 150px;
+    text-align: center;
+}
+
+.character img {
+    width: 100%;
+    height: auto;
+}
