@@ -5,11 +5,11 @@ const characters = [
         "url": "https://game.starwolvez.com",
         "traits": {
             "PVP": "8% less likely to be stunned",
-            "PVE": "",
+            "PVE": "Tiene un arma no se 5% de fuerza",
             "Boss Battle": "",
             "Battle Royale": "",
             "Mining": "",
-            "Passive": ""
+            "Passive": "Canta canciones"
         }
     },
     {
@@ -18,10 +18,10 @@ const characters = [
         "url": "https://game.starwolvez.com",
         "traits": {
             "PVP": "Additional 6% chance to stun opponent",
-            "PVE": "",
+            "PVE": "Reguapardo con 3% de rizz",
             "Boss Battle": "",
             "Battle Royale": "",
-            "Mining": "",
+            "Mining": "Minero de corazon",
             "Passive": ""
         }
     },
@@ -56,14 +56,20 @@ function addCharacterToSquad(character) {
         if (!square.innerHTML) {
             square.innerHTML = `<img src="${character.image}" alt="Character Image" style="width: 100px;">`;
             collectionNumber.innerHTML = character.collectionNumber;
-            updateSquadInfo();
+            updateSquadInfo(character);
             break;
         }
     }
 }
 
+let pvpBuffs = [];
+let pveBuffs = [];
+let bossBuffs = [];
+let brBuffs = [];
+let miningBuffs = [];
+let passiveBuffs = [];
 
-function updateSquadInfo() {
+function updateSquadInfo(character) {
     const squadSquares = document.querySelectorAll('.squad-square img');
     const pvpInfo = document.getElementById('pvp-info');
     const pveInfo = document.getElementById('pve-info');
@@ -72,24 +78,13 @@ function updateSquadInfo() {
     const miningInfo = document.getElementById('mining-info');
     const passiveInfo = document.getElementById('passive-info');
 
-    let pvpBuffs = [];
-    let pveBuffs = [];
-    let bossBuffs = [];
-    let brBuffs = [];
-    let miningBuffs = [];
-    let passiveBuffs = [];
-
-    squadSquares.forEach(img => {
-        const character = characters.find(c => c.image === img.src);
-        if (character) {
-            if (character.traits.PVP) pvpBuffs.push(character.traits.PVP);
-            if (character.traits.PVE) pveBuffs.push(character.traits.PVE);
-            if (character.traits['Boss Battle']) bossBuffs.push(character.traits['Boss Battle']);
-            if (character.traits['Battle Royale']) brBuffs.push(character.traits['Battle Royale']);
-            if (character.traits.Mining) miningBuffs.push(character.traits.Mining);
-            if (character.traits.Passive) passiveBuffs.push(character.traits.Passive);
-        }
-    });
+    if (character.traits.PVP) pvpBuffs.push(character.traits.PVP);
+    if (character.traits.PVE) pveBuffs.push(character.traits.PVE);
+    if (character.traits['Boss Battle']) bossBuffs.push(character.traits['Boss Battle']);
+    if (character.traits['Battle Royale']) brBuffs.push(character.traits['Battle Royale']);
+    if (character.traits.Mining) miningBuffs.push(character.traits.Mining);
+    if (character.traits.Passive) passiveBuffs.push(character.traits.Passive);
+   
 
     pvpInfo.textContent = pvpBuffs.join(', ');
     pveInfo.textContent = pveBuffs.join(', ');
