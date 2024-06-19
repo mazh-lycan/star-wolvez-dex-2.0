@@ -49,15 +49,19 @@ function loadCharacters(filteredCharacters) {
 }
 
 function addCharacterToSquad(character) {
-    const squadSquares = document.querySelectorAll('.squad-square');
-    for (let square of squadSquares) {
+    const squadContainers = document.querySelectorAll('.squad-container');
+    for (let container of squadContainers) {
+        const square = container.querySelector('.squad-square');
+        const collectionNumber = container.querySelector('.collection-number');
         if (!square.innerHTML) {
-            square.innerHTML = `<img src="${character.image}" alt="Character Image"><p>${character.collectionNumber}</p>`;
+            square.innerHTML = `<img src="${character.image}" alt="Character Image" style="width: 100px;">`;
+            collectionNumber.innerHTML = character.collectionNumber;
             updateSquadInfo();
             break;
         }
     }
 }
+
 
 function updateSquadInfo() {
     const squadSquares = document.querySelectorAll('.squad-square img');
