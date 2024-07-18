@@ -1,6 +1,6 @@
 const characters = [
     {
-        "image": "../pics/QmPBa2Wgt8jLnGhuDc1g7WajsCj37u5UKTuJM2xTTda3qX",
+        "image": "./pics/QmZ7m4GBfEiCnfmgqjXNbfj4cVKT5oNBiqCZyeCw2TihBL",
         "collectionNumber": 1,
         "url": "https://game.starwolvez.com",
         "traits": {
@@ -13,7 +13,7 @@ const characters = [
         }
     },
     {
-        "image": "../pics/QmSuDWbxDDHReFFtmrbcecQxxbgHHRGCyLVdYJHiVHrDww",
+        "image": "./pics/QmSuDWbxDDHReFFtmrbcecQxxbgHHRGCyLVdYJHiVHrDww",
         "collectionNumber": 2,
         "url": "https://game.starwolvez.com",
         "traits": {
