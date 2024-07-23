@@ -181,7 +181,7 @@
 179;Deep Search Goggles Gold;Eyes:Headwear:Eyewear;214;;;8% boost to damage per hour.;;;
 180;Miner Safety Helmet Mauve;Eyes:Headwear:Eyewear;213;;;10% boost to damage per hour.;;;
 181;AM III V2 Helmet;Eyes:Headwear:Eyewear;212;;Regenerates 4% HP every 5 rounds.;;;;
-182;Patroller Helmet White;Eyes:Headwear:Eyewear;209;;;;"4% increased likelihood of successfully ""hiding"" for a round.";;
+182;Patroller Helmet White;Eyes:Headwear:Eyewear;209;;;;4% more chance of hiding successfully per turn;;
 183;Viper Pilot Helmet;Eyes:Headwear:Eyewear;201;;;;;8% increase in damage per round.;
 184;Red Eyes;Eyes:Headwear:Eyewear;191;;Regenerates 2% HP every 5 rounds.;;;;
 185;Blue Eyes;Eyes:Headwear:Eyewear;186;;Regenerates 2% HP every 5 rounds.;;;;
@@ -193,7 +193,7 @@
 191;Yellow Eyes;Eyes:Headwear:Eyewear;159;;Regenerates 2% HP every 5 rounds.;;;;
 192;Cyclops Red;Eyes:Headwear:Eyewear;152;;5% less likely to be stunned.;;;;
 193;Cyclops Blue;Eyes:Headwear:Eyewear;150;;5% less likely to be stunned.;;;;
-194;Goo Brain Helmet;Eyes:Headwear:Eyewear;149;;;;"5% increased likelihood of successfully ""hiding"" for a round.";;
+194;Goo Brain Helmet;Eyes:Headwear:Eyewear;149;;;;5% more chance of hiding successfully per turn;;
 195;Halo Effect Goggles Red;Eyes:Headwear:Eyewear;136;;;;5% increase in successful attack.;;
 196;Halo Effect Goggles White;Eyes:Headwear:Eyewear;123;;;;6% increase in successful attack.;;
 197;X Beam 880;Eyes:Headwear:Eyewear;118;;;3% increase of Stardust per successful mining mission.;;;
@@ -204,7 +204,7 @@
 202;Mohawk Blue;Eyes:Headwear:Eyewear;112;;Regenerates 7% HP every 5 rounds.;;;;
 203;Only Up Frames Yellow;Eyes:Headwear:Eyewear;112;;;;;;Improves machine build and upgrade time by 6%.
 204;AM III Goggles Purple;Eyes:Headwear:Eyewear;111;;;;;;Improves machine build and upgrade time by 6%.
-205;Airspeeder Goggles Green;Eyes:Headwear:Eyewear;111;;;;"8% increased likelihood of successfully ""hiding"" for a round.";;
+205;Airspeeder Goggles Green;Eyes:Headwear:Eyewear;111;;;;8% more chance of hiding successfully per turn;;
 206;Cyclops Galaxy;Eyes:Headwear:Eyewear;111;;8% less likely to be stunned.;;;;
 207;Relic Hunter Helmet Blue;Eyes:Headwear:Eyewear;111;;;10% more XP per successful mining mission.;;;
 208;Enforcer V2 Headset;Eyes:Headwear:Eyewear;104;;;;;11% increase in damage per round.;
@@ -213,20 +213,20 @@
 211;Relic Hunter Helmet Brown;Eyes:Headwear:Eyewear;96;;;10% more XP per successful mining mission.;;;
 212;Round Table Helmet;Eyes:Headwear:Eyewear;94;;12% less likely to be stunned.;;;;
 213;Spacetime Helmet;Eyes:Headwear:Eyewear;94;;15% less likely to be stunned.;;;;
-214;Patroller Helmet Gold;Eyes:Headwear:Eyewear;93;;;;"10% increased likelihood of successfully ""hiding"" for a round.";;
-215;Millenia Vision Goggles Red;Eyes:Headwear:Eyewear;91;;;;"10% increased likelihood of successfully ""hiding"" for a round.";;
+214;Patroller Helmet Gold;Eyes:Headwear:Eyewear;93;;;;10% more chance of hiding successfully per turn;;
+215;Millenia Vision Goggles Red;Eyes:Headwear:Eyewear;91;;;;10% more chance of hiding successfully per turn;;
 216;Mohawk Pink;Eyes:Headwear:Eyewear;89;;Regenerates 10% HP every 5 rounds.;;;;
 217;Binary Clip Goggles;Eyes:Headwear:Eyewear;85;;;;;;Improves machine build and upgrade time by 7%.
-218;Millenia Vision Goggles Green;Eyes:Headwear:Eyewear;85;;;;"10% increased likelihood of successfully ""hiding"" for a round.";;
+218;Millenia Vision Goggles Green;Eyes:Headwear:Eyewear;85;;;;10% more chance of hiding successfully per turn;;
 219;Lil Fighter Helmet;Eyes:Headwear:Eyewear;84;;;;;12% increase in damage per round.;
 220;Trip Eyes;Eyes:Headwear:Eyewear;82;;10% less likely to be stunned.;;;;
 221;Laser Beams;Eyes:Headwear:Eyewear;78;;Increased likelihood of critical hit by 8%.;;;;
 222;Senator Crown;Eyes:Headwear:Eyewear;73;;;;;;Cost of building and upgrading decreased by 5%.
-223;Angry Emoji Goggles;Eyes:Headwear:Eyewear;60;;;;"12% increased likelihood of successfully ""hiding"" for a round.";;
+223;Angry Emoji Goggles;Eyes:Headwear:Eyewear;60;;;;12% more chance of hiding successfully per turn;;
 224;Enforcer Goggles;Eyes:Headwear:Eyewear;58;;;;;15% increase in damage per round.;
 225;Space Elixir Blob;Eyes:Headwear:Eyewear;53;;;;;;
 226;Technicolor Goggles;Eyes:Headwear:Eyewear;48;;;;;;Improves machine build and upgrade time by 8%.
-227;Airspeeder Goggles Blue;Eyes:Headwear:Eyewear;43;;;;"12% likelihood of successfully ""hiding"" for a round.";;
+227;Airspeeder Goggles Blue;Eyes:Headwear:Eyewear;43;;;;"12% likelihood of successfully hiding""for a round.";;
 228;Neon Gold Blob;Eyes:Headwear:Eyewear;41;;;;;;
 229;Bone Head;Eyes:Headwear:Eyewear;26;;Heavy Attacks from opponent do 15% less damage.;;;;
 230;Adult Fangs;Mouth;425;0.03885135135135135;;;;;
