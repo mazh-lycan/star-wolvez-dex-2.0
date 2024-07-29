@@ -1,6 +1,6 @@
 var jsonData;
 var characters;
-fetch('./jsons/updated_characters.json') // Adjust path as needed
+fetch('./jsons/jsondemo.json') // Adjust path as needed
     .then(response => response.json())
     .then(jsonData => {
         // Convert the JSON object to an array of characters
