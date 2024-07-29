@@ -1,32 +1,20 @@
-const characters = [
-    {
-        "image": "./pics/QmZ7m4GBfEiCnfmgqjXNbfj4cVKT5oNBiqCZyeCw2TihBL",
-        "collectionNumber": 1,
-        "url": "https://game.starwolvez.com",
-        "traits": {
-            "PVP": ["8% less likely to be stunned", "Heavy attack does 8 more damage"],
-            "PVE": ["Tiene un arma no se 5% de fuerza"],
-            "Boss Battle": [],
-            "Battle Royale": [],
-            "Mining": [],
-            "Passive": ["Canta canciones"]
-        }
-    },
-    {
-        "image": "./pics/QmSuDWbxDDHReFFtmrbcecQxxbgHHRGCyLVdYJHiVHrDww",
-        "collectionNumber": 2,
-        "url": "https://game.starwolvez.com",
-        "traits": {
-            "PVP": ["Additional 6% chance to stun opponent"],
-            "PVE": ["Me lo inventé esto jaja"],
-            "Boss Battle": ["Reguapardo con 3% de rizz"],
-            "Battle Royale": [],
-            "Mining": ["Minero de corazon"],
-            "Passive": []
-        }
-    },
-    // Add more characters as needed
-];
+var jsonData;
+var characters;
+fetch('./jsons/updated_characters.json') // Adjust path as needed
+    .then(response => response.json())
+    .then(jsonData => {
+        // Convert the JSON object to an array of characters
+            characters = Object.values(jsonData).map(character => ({
+            image: character.image, // Adjust path if necessary  .replace("../", "./pics/")
+            collectionNumber: character.name,
+            description: character.description,
+            traits: character.attributes
+        }));
+
+        
+    })
+    .catch(error => console.error('Error loading JSON:', error));
+
 
 function loadCharacters(filteredCharacters) {
     const charactersContainer = document.getElementById('characters');
@@ -115,8 +103,8 @@ function filterCharacters() {
     const filteredCharacters = characters.filter(character => {
         return (!pvpValue || searchCharactersByTrait("PVP", pvpValue).includes(character)) &&
             (!pveValue || searchCharactersByTrait("PVE", pveValue).includes(character)) &&
-            (!bossValue || searchCharactersByTrait("Boss Battle", bossBattleValue).includes(character)) &&
-            (!brValue || searchCharactersByTrait("Battle Royale", battleRoyaleValue).includes(character)) &&
+            (!bossValue || searchCharactersByTrait("Boss Battle", bossValue).includes(character)) &&
+            (!brValue || searchCharactersByTrait("Battle Royale", brValue).includes(character)) &&
             (!miningValue || searchCharactersByTrait("Mining", miningValue).includes(character)) &&
             (!passiveValue || searchCharactersByTrait("Passive", passiveValue).includes(character))
     });
