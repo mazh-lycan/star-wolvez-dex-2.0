@@ -1,0 +1,2227 @@
+{
+    "file101": {
+        "image": "./pics/QmPBa2Wgt8jLnGhuDc1g7WajsCj37u5UKTuJM2xTTda3qX",
+        "name": "Star Wolf #101",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 10% less damage",
+                "Heavy attack does 8 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "6% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file102": {
+        "image": "./pics/QmReWfCHYWspLeN1X7kDF3ajQnRD8KLJeU2Ev1CbiWc7VA",
+        "name": "Star Wolf #102",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage",
+                "Heavy attack does 12 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "10% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file103": {
+        "image": "./pics/QmPun5RyrnaDLZGRQTK8A6bv92rBrNhGtSbbV3ntN9m3VY",
+        "name": "Star Wolf #103",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "5% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file104": {
+        "image": "./pics/QmfVcJvDb3Tf73P75jTkebwzZ3rDkRWS5HHHAYSY5SsLaH",
+        "name": "Star Wolf #104",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file105": {
+        "image": "./pics/QmVJ1giYgqvenvrg2ow3rd4inWqJKy43rpKKC6PDJkdqeQ",
+        "name": "Star Wolf #105",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file106": {
+        "image": "./pics/QmPLe4HZmxNm3gZWL8mwMMyLSiFHBQAYxvajXnyNMbNhsG",
+        "name": "Star Wolf #106",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "12% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file107": {
+        "image": "./pics/QmRK7gAqmrWZ8JoYAv7ZrZze67SKGj1aUZwvNvAta7TcK1",
+        "name": "Star Wolf #107",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "12% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file108": {
+        "image": "./pics/QmQFzASA8ErzyRe8NTnrxf9oSnkLsho1No49gjjEt2Z6jR",
+        "name": "Star Wolf #108",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file109": {
+        "image": "./pics/QmdwzLjzAS2RRYFXaGda8GYoLdapSscAEpXhqdbvqcCrDy",
+        "name": "Star Wolf #109",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "5% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file110": {
+        "image": "./pics/Qmbsi4rWegX1Q58KSCkjbxMrvCDBibpJwrA2k9ZcAvZFya",
+        "name": "Star Wolf #110",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [
+                "8% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file111": {
+        "image": "./pics/QmfGxPivu9AXnDMb89G2yQJ6PBgwoST46NW7au7CBMMWWS",
+        "name": "Star Wolf #111",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 12% more chance of hiding successfully per turn",
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file112": {
+        "image": "./pics/QmbZcJgLqST2Zfu2sPMoeJtAZjsAc8uHzKyjcNeWj4iAFR",
+        "name": "Star Wolf #112",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy attack does 8 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "6% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [
+                "9% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file113": {
+        "image": "./pics/QmTbhNZxPwydemeM7Fg15cYL2r13RcJJqQ98NWbEP9qrUx",
+        "name": "Star Wolf #113",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file114": {
+        "image": "./pics/QmRx8AmhdusQVYiwc2BUbStsi9cT6cU84AJCA6PqLm352Q",
+        "name": "Star Wolf #114",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file115": {
+        "image": "./pics/QmaJ6cgUJ7aTobzCnHpJ7NHn9cmyvykykK9MVJB2cckNec",
+        "name": "Star Wolf #115",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file116": {
+        "image": "./pics/QmW81q8DjenpdybwEhwDAzZjKimfFaKsiqLLYfbJi9CaC6",
+        "name": "Star Wolf #116",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [
+                "4% increase in damage per turn"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file117": {
+        "image": "./pics/QmYKiry4pe58x6n2tcGQsBnUQ7X1rPTZzSjFQdB5zsWHDL",
+        "name": "Star Wolf #117",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file118": {
+        "image": "./pics/QmTJtE8XncAWNpcHngHZjawTvv8SezLQz5vuScUCyfbcDU",
+        "name": "Star Wolf #118",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file119": {
+        "image": "./pics/Qme8D2TL5dJHcrXnGgfehhcRLj5Vi29dbdGPrtMNsVxSRG",
+        "name": "Star Wolf #119",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file120": {
+        "image": "./pics/QmdgqhsAXA5goFCxoXaHL7EUyj8BAaXMqs2nNkFcqPbBs9",
+        "name": "Star Wolf #120",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file121": {
+        "image": "./pics/QmPck8RRPGLy2wSwMwyo13QsHzsCddx3TYtArLU5hiqWG1",
+        "name": "Star Wolf #121",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file122": {
+        "image": "./pics/QmY4gK3Z1X57F9cJPScUJNpssWScfQnE6XwRMrqXQnavzg",
+        "name": "Star Wolf #122",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file123": {
+        "image": "./pics/Qme4y8Yz4vAd1tEV6C7kenFZ1tRrjZqKdrZgJthTbctk3Q",
+        "name": "Star Wolf #123",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file124": {
+        "image": "./pics/QmYgCyscrdJPH6BGRbzRPtDTXmmsAwu4XfbhmzZUX9G5uS",
+        "name": "Star Wolf #124",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file125": {
+        "image": "./pics/QmUNTX2qQq3qfU8W2kvdGDqMAt9gyV8hiFsHCGpjf24tn5",
+        "name": "Star Wolf #125",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file126": {
+        "image": "./pics/QmTXoVFo1sBAN8RKDHS3z7ku7NBiTQY8A81uYUdqx2U3DS",
+        "name": "Star Wolf #126",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file127": {
+        "image": "./pics/QmXo3Xm9pueSHGwAL7C3Uuisz6iYbkaTF1kfZgjyTrcMUy",
+        "name": "Star Wolf #127",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage",
+                "Increased likelihood of critical hit by 5%",
+                "Heavy attack does 10 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "8% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file128": {
+        "image": "./pics/QmVMEDj2iwXiTb5xWTAK1vcMcDYE3otQ8B4r8KfhG8mhfA",
+        "name": "Star Wolf #128",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 10% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file129": {
+        "image": "./pics/QmNYXmowrbUAf8DuzKVTjGXuuLn3PRpUvT21XnpFyHqGYE",
+        "name": "Star Wolf #129",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file130": {
+        "image": "./pics/QmQt82NqpugEvhsYk6651wAo5zNdQkuvguC4qnT5mLCHnr",
+        "name": "Star Wolf #130",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file131": {
+        "image": "./pics/QmbEtuGenffseXqDTW9Gad2SVALpA8Dx3W9hNj5v6m7D8u",
+        "name": "Star Wolf #131",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file132": {
+        "image": "./pics/QmXTGvHECMouvTjx9q66Cj3XCkzbEFQRXTw6CG9yeyPApM",
+        "name": "Star Wolf #132",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage",
+                "Heavy attack does 8 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "6% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file133": {
+        "image": "./pics/QmWmuVkYMUEN6qGKrPFWAM6DCA7y1TVK5NWQ2VkXz2GtiZ",
+        "name": "Star Wolf #133",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file134": {
+        "image": "./pics/QmSJasqDStEqBaYmvszTvn6xgU2oFoJHNaj9o6wWjx5iLJ",
+        "name": "Star Wolf #134",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "4% more chance of hiding successfully per turn"
+            ],
+            "Mining": [
+                "10% increase in damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file135": {
+        "image": "./pics/QmVgK9R5jHZzZprWCBnvfqmFWKnzB98PjJYXQuPqcTsWcJ",
+        "name": "Star Wolf #135",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file136": {
+        "image": "./pics/QmRoh9SSmE7bnALQxcPa7DAbLfZCMwYWGwus4TxH4hhDZ6",
+        "name": "Star Wolf #136",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file137": {
+        "image": "./pics/QmbmEV7o9XLDsMVMheYPhqA931s5REemcJu124yC7uihLP",
+        "name": "Star Wolf #137",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file138": {
+        "image": "./pics/QmTrRPK5w3ziiLJdyjuQc6o2XngtsguYYznqtZNExNoL9s",
+        "name": "Star Wolf #138",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file139": {
+        "image": "./pics/QmdVsoadzxMN8XoNV9GTpb3k6ZXxjmj24H8kD61xxGuj1i",
+        "name": "Star Wolf #139",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file140": {
+        "image": "./pics/QmeH2GLqeNiZNYE7LTFc8KwYTWexqiU2REcy2j4hVe7j6J",
+        "name": "Star Wolf #140",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 10% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file141": {
+        "image": "./pics/QmTCy3ykkTCZzu2q3PPDXz5ZePg1ncFJJDX2jnaNWR1xCD",
+        "name": "Star Wolf #141",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file142": {
+        "image": "./pics/QmULqEcjAJrKKGPHUq8wQePuzFGePxnaLLKudvakx8E8Js",
+        "name": "Star Wolf #142",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file143": {
+        "image": "./pics/QmPXy9PmuCMkz1Hkd8cLyngGrKcre8psq8m1pmXn6pX6Hu",
+        "name": "Star Wolf #143",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file144": {
+        "image": "./pics/QmPrBaLkDUX8UMWnVam2Fq4c8br3RDYLg92Ci8TzxjQrsd",
+        "name": "Star Wolf #144",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file145": {
+        "image": "./pics/QmPiGZRX33GkZoXTcWVLY8gUm23ZB91jZW2GBPNGssApDN",
+        "name": "Star Wolf #145",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 7% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file146": {
+        "image": "./pics/QmcJ3FWiLkJdTZpiPw98gBySqHWVfdWjcYs2X3uRobpzRQ",
+        "name": "Star Wolf #146",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file147": {
+        "image": "./pics/QmRwsKJSgUEPth7YXYCTxN5NaWbPZRkuZo4HyaGMJAJTFR",
+        "name": "Star Wolf #147",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 12% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file148": {
+        "image": "./pics/QmX6dYKrzcyb4VwuL7swCgkHXFJFWL1HBZkxPCtFHwcSSs",
+        "name": "Star Wolf #148",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file149": {
+        "image": "./pics/Qmaiqb8XPzhfQyTbRh8w1KMQufnPBSE29fw9gEvdEmXtPc",
+        "name": "Star Wolf #149",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Regenerates 10% HP every 5 rounds"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file150": {
+        "image": "./pics/QmPtf8WKwnWNKYPRkDAKzbKAUvg54mykWojYuA3YZeDNwB",
+        "name": "Star Wolf #150",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file151": {
+        "image": "./pics/QmXaZfV1UaGneFG4PmiSA3FmjcyRdaKiigHcrHVkenZSu5",
+        "name": "Star Wolf #151",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file152": {
+        "image": "./pics/QmQuUuZh2ktSLTqVEWzM7r1c6ktz5X1LKoLhtPmbdXQ4Wy",
+        "name": "Star Wolf #152",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file153": {
+        "image": "./pics/Qmeq7tnxLbhRhZ7EN5hNiShJvKC3mKLCUonxyysHNE7U9G",
+        "name": "Star Wolf #153",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file154": {
+        "image": "./pics/QmefykjN4W6cGmTG4bNVqm9L3bxuKVBt65VhUeJPwMNWjM",
+        "name": "Star Wolf #154",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "8% increase in Neon Gold per successful battle"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Common and Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file155": {
+        "image": "./pics/QmXoexBb91LpDbShKwPjuU1mjtSYWMrT6NnyTwh2qsfQpQ",
+        "name": "Star Wolf #155",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file156": {
+        "image": "./pics/QmbvR884XvWr4wTrDGDenK4tsBwuPMLNYjifTUqKXGYkFW",
+        "name": "Star Wolf #156",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file157": {
+        "image": "./pics/QmRRGTxDG2kwjW1hWKBR1KgZTKFe3wcb25My9kfaWEjMPd",
+        "name": "Star Wolf #157",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file158": {
+        "image": "./pics/QmYC4crk9SH8cyCcU25QJRWHZT7fr6BZupkh7jAmMqwK7F",
+        "name": "Star Wolf #158",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file159": {
+        "image": "./pics/QmSmBspNXbSzjZWRpPCBFEFJaevw5w1PV3w73bN6ivFKcR",
+        "name": "Star Wolf #159",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "BATTLE ROYALE & 10% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file160": {
+        "image": "./pics/QmZY35C59x6VPhtP7BeEeAPRQFcYDv8QTtcSy51M6T6hMi",
+        "name": "Star Wolf #160",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file161": {
+        "image": "./pics/QmR2UFqEtP1AT5ruKEt5XcnnUGdduhkcZtxbXpDr1PKBux",
+        "name": "Star Wolf #161",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "12% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file162": {
+        "image": "./pics/QmVc3uCYFurKHNQt4Qafyi7zdNvw8r9XqB6JSniHyt68DW",
+        "name": "Star Wolf #162",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 10% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "15% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [
+                "8% increase in Space Elixir per successful mission"
+            ],
+            "Passive": []
+        }
+    },
+    "file163": {
+        "image": "./pics/QmXaqHUxYgCfM33oS5MvquhbkstQ9QGi9WkXgjERLx5rr5",
+        "name": "Star Wolf #163",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file164": {
+        "image": "./pics/Qmb3dDbBdBfA3mbi5cpqaFDg2KnEhFvrWAwDUqgf9yvz7C",
+        "name": "Star Wolf #164",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file165": {
+        "image": "./pics/QmXpthwy68evcgQgJ3cHGiUMDJqGs5UyUN7Y1AwreBqB5h",
+        "name": "Star Wolf #165",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [
+                "8% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file166": {
+        "image": "./pics/Qmd9Sh8GsrNXrmJ7uthcFRgQwzGNvgNk2tDAjUnbJpUauK",
+        "name": "Star Wolf #166",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "BATTLE ROYALE & 10% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "15% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file167": {
+        "image": "./pics/QmVZ58qMaUL6qQKVsaahPCyPn6a3hS3smzuTRPsyPaxWtu",
+        "name": "Star Wolf #167",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file168": {
+        "image": "./pics/QmaP8jZ6oLuLEdbtDTpyTy6Wk3dc1o7fVi4JVTxvAMifFX",
+        "name": "Star Wolf #168",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file169": {
+        "image": "./pics/QmWvusr88b7pVzo6GBR1csbdhqQjAV4QVWujykQSJ3251L",
+        "name": "Star Wolf #169",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file170": {
+        "image": "./pics/Qmdb9wyrK9Cvim7EpXjsW4Lwha5rS45or9wssZmoZx3F5V",
+        "name": "Star Wolf #170",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file171": {
+        "image": "./pics/QmdNxjgLgHPiBYF7tEfWwD2zhp3U3HRg8PcrNzSKC3ktfN",
+        "name": "Star Wolf #171",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file172": {
+        "image": "./pics/QmPa3F8EUZ9xPH4SnBmpHTjznuZgLbqDWnC6rpstLR91wt",
+        "name": "Star Wolf #172",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "3% increase in Stardust per successful mission"
+            ],
+            "Passive": []
+        }
+    },
+    "file173": {
+        "image": "./pics/Qmc1trE4sGPAsfBxhVwENb3FrnTuE2tquzLz3W7cUEUTfi",
+        "name": "Star Wolf #173",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "9% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file174": {
+        "image": "./pics/QmSnL71Jxf89dAmPZG1KefiQipZMburpDiaykgVTmMuQR2",
+        "name": "Star Wolf #174",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "8% increase in Neon Gold per successful battle"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file175": {
+        "image": "./pics/QmSiYPhk5ibpCLqd8x47G8xo9651rEhr9xLQEAL5BxYJXW",
+        "name": "Star Wolf #175",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file176": {
+        "image": "./pics/QmUnKV3emFX6JFTrvUhSSThNfiCvN2jNriYQMeC2TsGm74",
+        "name": "Star Wolf #176",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file177": {
+        "image": "./pics/QmfJPAnU8ETHmu7hLks5t4uHUZGLQcV31aCnk3FxMKKBoe",
+        "name": "Star Wolf #177",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file178": {
+        "image": "./pics/QmWESHf7LRzFazvP3cytkwVeYjmKWbiCPiRwAkWyfQTbES",
+        "name": "Star Wolf #178",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "5% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file179": {
+        "image": "./pics/QmUKh5iuXzrqfsCeeLMPBc4zgHiNHoGDH8kMa6L44PDgjN",
+        "name": "Star Wolf #179",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage",
+                "Heavy attack does 8 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "6% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file180": {
+        "image": "./pics/QmSKmSjNw1XSC9g9WBNeXCJScewWFQMLd1pz1MwbHeqSUz",
+        "name": "Star Wolf #180",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file181": {
+        "image": "./pics/Qmf4UrPR2FkjdqW3SaCipJh9ZXgjhHoLniakBwdKAWKA2U",
+        "name": "Star Wolf #181",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file182": {
+        "image": "./pics/QmS6Tb9xWuD1qYFq92RWr9EKsp6er8E4drk8jMEb1SmFyF",
+        "name": "Star Wolf #182",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 10% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "15% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file183": {
+        "image": "./pics/QmRJ9teSGwUDkvcTsiyv8hTtZAiXB5rQh8NfWSP6PynuiX",
+        "name": "Star Wolf #183",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file184": {
+        "image": "./pics/QmQMasorhkPnJaWwDfCtpdvECYZMM1bU7g2JSiU83wDcJW",
+        "name": "Star Wolf #184",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file185": {
+        "image": "./pics/QmeeKKVifpA9yjG9PZKTMbaJbppNn1B52bCUHnFj3KPg68",
+        "name": "Star Wolf #185",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file186": {
+        "image": "./pics/QmTinB7HBqdNDD748L2XgPBRdRTFZ7xB6y8nDPMF4WPTaz",
+        "name": "Star Wolf #186",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [
+                "8% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [
+                "Increases XP and resource payout for successful mission by 8%"
+            ],
+            "Passive": []
+        }
+    },
+    "file187": {
+        "image": "./pics/QmTLH42jmiCMV24rqqNoV2b6xKWRWkMGFwTjVB66BeBnmm",
+        "name": "Star Wolf #187",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file188": {
+        "image": "./pics/QmcEYExCFw8whcZmCC8Sqxqb9pGTfVRqeYPqS4SSeGsE2e",
+        "name": "Star Wolf #188",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file189": {
+        "image": "./pics/QmdzWYDGK1K4jrbKvuRZqVGFgVyag7dS9PeRweKWJYMXNe",
+        "name": "Star Wolf #189",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file190": {
+        "image": "./pics/QmfQTajRGz3U8WbVTAU2hcaYLXU2EdaQL8xRCdBwcx7EgF",
+        "name": "Star Wolf #190",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy attack does 10 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "8% increase in damage per round",
+                "8% additional damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file191": {
+        "image": "./pics/QmX6pvdQRgiUzUUoGSA228HHtmwVaea26Q5Wo857paRtGj",
+        "name": "Star Wolf #191",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "12% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file192": {
+        "image": "./pics/QmVrWTttgqiWZJDssxtzLnqpKhoCUWeKM8xfjHuJV4T568",
+        "name": "Star Wolf #192",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file193": {
+        "image": "./pics/QmW6Hm77iCimoJNLWMVVve9gByGD31k6dcxNcS3wdgGF9V",
+        "name": "Star Wolf #193",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file194": {
+        "image": "./pics/QmfYtrHM4zwEDxC96v3Zs8LxFisChwTGvtwKgduGEWnpX2",
+        "name": "Star Wolf #194",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file195": {
+        "image": "./pics/QmQSg1Uq7ibB5XdGQGZ6TrmL4UdeeTqzekeXh1GK8aoWmV",
+        "name": "Star Wolf #195",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file196": {
+        "image": "./pics/QmdERYcWaQh3Ru6tRw9mrYSahcdhzDuYCX7PtftnidvQo5",
+        "name": "Star Wolf #196",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file197": {
+        "image": "./pics/QmdXX3qE9c77tmpvixnMRkcPnSxnfbc6ZWNmpAa8QBJgrn",
+        "name": "Star Wolf #197",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & Heavy Attacks do 10% more damage",
+                "Increased likelihood of critical hit by 5%"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file198": {
+        "image": "./pics/QmURyjEveKyKaTdX65SC4teYi1XByd7U7qMcMAWixoC8uw",
+        "name": "Star Wolf #198",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file199": {
+        "image": "./pics/QmNQq9exzzNzeScLCtSos6nEe3HXV6sTi2tmcsnuF93j5f",
+        "name": "Star Wolf #199",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file200": {
+        "image": "./pics/QmUdVYp1b2xUQwR4a3RGE9UCEVd7uZJZS2iUsLFCZnA1KA",
+        "name": "Star Wolf #200",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "2% increase in Stardust per successful mission"
+            ],
+            "Passive": []
+        }
+    },
+    "file201": {
+        "image": "./pics/QmaZu7NXaMnH6h4FbSJ4cFG6GrrkMvpagjSmwvKBJWBL5e",
+        "name": "Star Wolf #201",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 10% more chance of hiding successfully per turn"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "15% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file202": {
+        "image": "./pics/QmZfF7g1zBBQLYWBfHVnhZrZ28uQV1198No5YSy3sioDWh",
+        "name": "Star Wolf #202",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "4% more likely to deal a critical hit"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file203": {
+        "image": "./pics/Qmccn9c7hJZkt2aBG3Uqg6qs5iFtuaRiR9pjfN9nsysUDj",
+        "name": "Star Wolf #203",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file204": {
+        "image": "./pics/QmPZENijfcDdmoghbADeyk5bWY7ezDRzBo6yqXeNBMUq8N",
+        "name": "Star Wolf #204",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file205": {
+        "image": "./pics/QmXHtGL6uAfZt2gqk9GUTggwLDUXwxx2b8FRPNohqhmKZ5",
+        "name": "Star Wolf #205",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [
+                "7% increase in damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file206": {
+        "image": "./pics/QmXL4VztPq4PhvLtrrLgmCtnWh6MMbyr1yzpbJHHdwdfcB",
+        "name": "Star Wolf #206",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 7% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file207": {
+        "image": "./pics/QmX3btqEq2XVywfXfWuqE2YhQcHZX4anBfCsyMdMpqUvtk",
+        "name": "Star Wolf #207",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file208": {
+        "image": "./pics/QmYMT4N68NPjLdFvsWQnjno9pViBMNBaxq8dN7bQQ33ikZ",
+        "name": "Star Wolf #208",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file209": {
+        "image": "./pics/QmVPkm9xbzxDD9htibAkcVn84Lip1TRSasF9AfkgooUHvW",
+        "name": "Star Wolf #209",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file210": {
+        "image": "./pics/QmQ5nmWcDAX6WXb2tBxkHL8vvZkHqgyH2GrYD7Rkte1a1r",
+        "name": "Star Wolf #210",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file211": {
+        "image": "./pics/Qma6Zv4UkuuGCbTMq2KQiXZd8P2KcmLHLLecZceuiK5epv",
+        "name": "Star Wolf #211",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file212": {
+        "image": "./pics/QmcdFaorZfn3uubnBpUQ1xAwte1RhmvDqPn4rodekt3Yxp",
+        "name": "Star Wolf #212",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file213": {
+        "image": "./pics/QmdfLzt8MURRfb6JKCWLEVhAmvjE5VP5tRdnEp4tuXYpjv",
+        "name": "Star Wolf #213",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [
+                "8% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file214": {
+        "image": "./pics/QmTqYfY6jHoHpAsZWtXpmtZuueMxjWZt2KoNaZqJpmBVG9",
+        "name": "Star Wolf #214",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file215": {
+        "image": "./pics/Qmb72eH7e8sUqPZwuR5rsjgwuaWc7gw43VQ8WWdrYtnjTX",
+        "name": "Star Wolf #215",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Regenerates 10% HP every 5 rounds"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file216": {
+        "image": "./pics/QmT7N96CkZXmF2M8BU3gUA68a5Ay6tZkExas82mU41JATC",
+        "name": "Star Wolf #216",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks from opponent do 8% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file217": {
+        "image": "./pics/QmdiizTWbGFNGyDEC5b39R6AiehUNmqAeQZH1g8HWuK5wH",
+        "name": "Star Wolf #217",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file218": {
+        "image": "./pics/QmeYAZpmRdmW3cVUkujR9sHxXv1LCafNdxmrpSfaVTncrz",
+        "name": "Star Wolf #218",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file219": {
+        "image": "./pics/QmeUXCFtTbVixTj97Q6mmcYedWK8SfG2hiirGU4bWCnJup",
+        "name": "Star Wolf #219",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file220": {
+        "image": "./pics/QmZKUtXkqcHQx6zradU5WD9ZZ5sKLYi84GBAaYiW6aao85",
+        "name": "Star Wolf #220",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 7% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file221": {
+        "image": "./pics/QmfAZd87xLe8vWWNVL3Rw2z3qWzyDhybdYGHFE3YEggA4v",
+        "name": "Star Wolf #221",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [
+                "10% increase in damage per round"
+            ],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file222": {
+        "image": "./pics/QmNx7F7qfSX7Pcxyb2k1TnPFAPq4ioDfCoswAXyThdeyvJ",
+        "name": "Star Wolf #222",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy attack does 12 more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [
+                "10% additional damage per round"
+            ],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [
+                "7% increase in damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file223": {
+        "image": "./pics/QmcHcD7gLoPHmsZCmVni3NPLDC4i2734FwZoJgfMdM3iWv",
+        "name": "Star Wolf #223",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file224": {
+        "image": "./pics/Qmb4dFW3VTdJ9apWbmH2zXQ8FVcpFSR678Rq8ExrNXS8oH",
+        "name": "Star Wolf #224",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file225": {
+        "image": "./pics/QmeUG1s44FZqNcnBKspBgZxVzkGU7fHVpdb8sN6s3eJeN6",
+        "name": "Star Wolf #225",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file226": {
+        "image": "./pics/QmVXzbZE49gF1r8M1AfF17a5HXV2Sd6rrDHg9dT5NmGBWS",
+        "name": "Star Wolf #226",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "12% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file227": {
+        "image": "./pics/QmSCEN8gNF1UEbwgY8Gg1xrWeZ8bciKHzrd1ojbxQvgCnA",
+        "name": "Star Wolf #227",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file228": {
+        "image": "./pics/QmbZHfZnU6Fs5o4LqiJ6WxWu4YSLpbg7y1jGC6g8v4597C",
+        "name": "Star Wolf #228",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file229": {
+        "image": "./pics/QmdKQWSwU71nt4tuhqChAcjkaL69WVpYfdgcuBXHsY1LbX",
+        "name": "Star Wolf #229",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "2% increase in Stardust per successful mission"
+            ],
+            "Passive": []
+        }
+    },
+    "file230": {
+        "image": "./pics/QmSH84KXue5TzRoV7DPTxbBzH3zRVYY3iHB7jXpWJJceDr",
+        "name": "Star Wolf #230",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file231": {
+        "image": "./pics/QmVzFM8wtpH7umBcbYWQyDnRVvxhEUGzu4GZ7jt3X3pGKr",
+        "name": "Star Wolf #231",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "BATTLE ROYALE & 12% more chance of hiding successfully per turn",
+                "Heavy Attacks from opponent do 10% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file232": {
+        "image": "./pics/QmXUCSAP2thBL7ejNktjMfEnpmbMZy7jHx8zT5QJhDgeTe",
+        "name": "Star Wolf #232",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 10% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file233": {
+        "image": "./pics/QmcqrTsZRqZAvkLeRS3cxUUaGwfMwbfJdQ8CNLzTYEaGxp",
+        "name": "Star Wolf #233",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file234": {
+        "image": "./pics/QmXmHzu5F1954rhZFVSidVGkgqhaB3Y2KVCTooPRiSdJ97",
+        "name": "Star Wolf #234",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [
+                "10% more chance of hiding successfully per turn"
+            ],
+            "Mining": [
+                "7% increase in damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file235": {
+        "image": "./pics/QmfVfYEejiqVYcT3pDXGJD6Aq6ekrVJSBWMHn6QBWBa9HL",
+        "name": "Star Wolf #235",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Regenerates 10% HP every 5 rounds"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file236": {
+        "image": "./pics/Qma3y5ABMMUit2vuJTXpsUbYnvzGnCeDshrpSA6GGM7ZUN",
+        "name": "Star Wolf #236",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "10% more damage per hour on Epic mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file237": {
+        "image": "./pics/QmYAiskWb2E2ATgVUWU4AEEXzNQpwexq5xu55yNZbYrwPm",
+        "name": "Star Wolf #237",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks do 10% more damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file238": {
+        "image": "./pics/Qmb9saR5gfsZsWSedDoVrPKn5pE1PHrUo5kRmj8BoLLShT",
+        "name": "Star Wolf #238",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "Heavy Attacks from opponent do 5% less damage",
+                "8% increase in Space Elixir per successful battle"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file239": {
+        "image": "./pics/QmeSGNA6F9zjkSFD5nVvEF4w75ZqiXCRpF69Ke5QtKjBN6",
+        "name": "Star Wolf #239",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [
+                "7% more damage per hour on Common mining missions"
+            ],
+            "Passive": []
+        }
+    },
+    "file240": {
+        "image": "./pics/QmdMzRPzzshL2UGeX1LFX9JewWxGBbndogWiA9yGzUYVoQ",
+        "name": "Star Wolf #240",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file241": {
+        "image": "./pics/QmdEb62zUadaBc9SFtXHaSFaqenY8q1zou4Y5WGMeMUrdy",
+        "name": "Star Wolf #241",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks from opponent do 8% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file242": {
+        "image": "./pics/QmWMHSz6JSp615t7SKLMQDRzCr6tvbyuDoBqNLE7PcZyjh",
+        "name": "Star Wolf #242",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    },
+    "file243": {
+        "image": "./pics/QmTUYw8mYcghFKpAkqWsX88qm9ZSfMD8LVScGyb7q5hcw9",
+        "name": "Star Wolf #243",
+        "description": "Where we're going, the moon will be just a speck of dust",
+        "attributes": {
+            "PVP": [
+                "+2% likelihood to evade opponent's attack",
+                "Heavy Attacks from opponent do 10% less damage"
+            ],
+            "PVE": [],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": []
+        }
+    }
+}
