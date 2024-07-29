@@ -4,12 +4,12 @@ const characters = [
         "collectionNumber": 1,
         "url": "https://game.starwolvez.com",
         "traits": {
-            "PVP": "8% less likely to be stunned",
-            "PVE": "Tiene un arma no se 5% de fuerza",
-            "Boss Battle": "",
-            "Battle Royale": "",
-            "Mining": "",
-            "Passive": "Canta canciones"
+            "PVP": ["8% less likely to be stunned", "Heavy attack does 8 more damage"],
+            "PVE": ["Tiene un arma no se 5% de fuerza"],
+            "Boss Battle": [],
+            "Battle Royale": [],
+            "Mining": [],
+            "Passive": ["Canta canciones"]
         }
     },
     {
@@ -17,12 +17,12 @@ const characters = [
         "collectionNumber": 2,
         "url": "https://game.starwolvez.com",
         "traits": {
-            "PVP": "Additional 6% chance to stun opponent",
-            "PVE": "Reguapardo con 3% de rizz",
-            "Boss Battle": "",
-            "Battle Royale": "",
-            "Mining": "Minero de corazon",
-            "Passive": ""
+            "PVP": ["Additional 6% chance to stun opponent"],
+            "PVE": ["Me lo inventé esto jaja"],
+            "Boss Battle": ["Reguapardo con 3% de rizz"],
+            "Battle Royale": [],
+            "Mining": ["Minero de corazon"],
+            "Passive": []
         }
     },
     // Add more characters as needed
@@ -94,6 +94,16 @@ function updateSquadInfo(character) {
     passiveInfo.textContent = passiveBuffs.join(', ');
 }
 
+
+function searchCharactersByTrait(traitType, traitValue) {
+    return characters.filter(character => {
+        if (character.traits[traitType]) {
+            return character.traits[traitType].includes(traitValue);
+        }
+        return false;
+    });
+}
+
 function filterCharacters() {
     const pvpValue = document.getElementById('pvp-select').value;
     const pveValue = document.getElementById('pve-select').value;
@@ -103,12 +113,12 @@ function filterCharacters() {
     const passiveValue = document.getElementById('passive-select').value;
 
     const filteredCharacters = characters.filter(character => {
-        return (!pvpValue || character.traits.PVP === pvpValue) &&
-               (!pveValue || character.traits.PVE === pveValue) &&
-               (!bossValue || character.traits['Boss Battle'] === bossValue) &&
-               (!brValue || character.traits['Battle Royale'] === brValue) &&
-               (!miningValue || character.traits.Mining === miningValue) &&
-               (!passiveValue || character.traits.Passive === passiveValue);
+        return (!pvpValue || searchCharactersByTrait("PVP", pvpValue).includes(character)) &&
+            (!pveValue || searchCharactersByTrait("PVE", pveValue).includes(character)) &&
+            (!bossValue || searchCharactersByTrait("Boss Battle", bossBattleValue).includes(character)) &&
+            (!brValue || searchCharactersByTrait("Battle Royale", battleRoyaleValue).includes(character)) &&
+            (!miningValue || searchCharactersByTrait("Mining", miningValue).includes(character)) &&
+            (!passiveValue || searchCharactersByTrait("Passive", passiveValue).includes(character))
     });
 
     loadCharacters(filteredCharacters);
