@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wolf Squad Manager</title>
+    <link rel="stylesheet" href="styles2.css">
+
+</head>
+<body>
+
+    <!-- Search Bar -->
+    <header>
+        <div class="search-bar">
+            <input type="number" min="1" max="10000" placeholder="Enter Wolvez number (1 - 10000)">
+        </div>
+    </header>
+
+    <main>
+        <!-- Left Menu (Checkbox Filters) -->
+        <div class="menu">
+            <h3>Filter by Attributes</h3>
+            
+            <div class="section">
+                <h4><button id="pvp-btn" class="dropdown-btn">PVP</button></h4>
+                <div id="pvp-options" class="dropdown-content" style="display: none;">
+                    <label><input type="checkbox" value="Heavy attack does 8 more damage"> Heavy attack does 8 more damage</label>
+                    <label><input type="checkbox" value="Heavy attack does 10 more damage"> Heavy attack does 10 more damage</label>
+                    <label><input type="checkbox" value="Heavy attack does 12 more damage"> Heavy attack does 12 more damage</label>
+                    <label><input type="checkbox" value="+2% likelihood to evade opponent's attack"> +2% likelihood to evade opponent's attack</label>
+                    <label><input type="checkbox" value="Heavy Attacks from opponent do 5% less damage"> Heavy Attacks from opponent do 5% less damage</label>
+                    <label><input type="checkbox" value="Heavy Attacks from opponent do 7% less damage"> Heavy Attacks from opponent do 7% less damage</label>
+                    <label><input type="checkbox" value="Heavy Attacks from opponent do 8% less damage"> Heavy Attacks from opponent do 8% less damage</label>
+                    <label><input type="checkbox" value="Heavy Attacks from opponent do 10% less damage"> Heavy Attacks from opponent do 10% less damage</label>
+                    <label><input type="checkbox" value="Heavy Attacks from opponent do 15% less damage"> Heavy Attacks from opponent do 15% less damage</label>
+                    <label><input type="checkbox" value="Regenerates 2% HP every 5 rounds"> Regenerates 2% HP every 5 rounds</label>
+                    <label><input type="checkbox" value="Regenerates 4% HP every 5 rounds"> Regenerates 4% HP every 5 rounds</label>
+                    <label><input type="checkbox" value="Regenerates 7% HP every 5 rounds"> Regenerates 7% HP every 5 rounds</label>
+                    <label><input type="checkbox" value="Regenerates 10% HP every 5 rounds"> Regenerates 10% HP every 5 rounds</label>
+                    <label><input type="checkbox" value="Heavy Attacks do 10% more damage"> Heavy Attacks do 10% more damage</label>
+                    <label><input type="checkbox" value="10% more chance of hiding successfully per turn"> 10% more chance of hiding successfully per turn</label>
+                    <label><input type="checkbox" value="12% more chance of hiding successfully per turn"> 12% more chance of hiding successfully per turn</label>
+                    <label><input type="checkbox" value="8% increase in Neon Gold per successful battle"> 8% increase in Neon Gold per successful battle</label>
+                    <label><input type="checkbox" value="8% increase in Space Elixir per successful battle"> 8% increase in Space Elixir per successful battle</label>
+                    <label><input type="checkbox" value="Increased likelihood of critical hit by 4%"> Increased likelihood of critical hit by 4%</label>
+                    <label><input type="checkbox" value="Increased likelihood of critical hit by 5%"> Increased likelihood of critical hit by 5%</label>
+                    <label><input type="checkbox" value="Increased likelihood of critical hit by 8%"> Increased likelihood of critical hit by 8%</label>
+                    <label><input type="checkbox" value="5% less likely to be stunned"> 5% less likely to be stunned</label>
+                    <label><input type="checkbox" value="8% less likely to be stunned"> 8% less likely to be stunned</label>
+                    <label><input type="checkbox" value="10% less likely to be stunned"> 10% less likely to be stunned</label>
+                    <label><input type="checkbox" value="12% less likely to be stunned"> 12% less likely to be stunned</label>
+                    <label><input type="checkbox" value="Light attacks deal 8 more hit points"> Light attacks deal 8 more hit points</label>
+                    <label><input type="checkbox" value="Additional 5% chance to stun opponent"> Additional 5% chance to stun opponent</label>
+                    <label><input type="checkbox" value="Additional 6% chance to stun opponent"> Additional 6% chance to stun opponent</label>
+                </div>
+            </div>
+
+            <div class="section">
+                <h4><button id="boss-btn" class="dropdown-btn">Boss Battle</button></h4>
+                <div id="boss-options" class="dropdown-content" style="display: none;">
+                    <label><input type="checkbox" value="3% increase in damage per round"> 3% increase in damage per round</label>
+                    <label><input type="checkbox" value="4% increase in damage per round"> 4% increase in damage per round</label>
+                    <label><input type="checkbox" value="6% additional damage per round"> 6% additional damage per round</label>
+                    <label><input type="checkbox" value="8% increase in damage per round"> 8% increase in damage per round</label>
+                    <label><input type="checkbox" value="10% additional damage per round"> 10% additional damage per round</label>
+                    <label><input type="checkbox" value="11% increase in damage per round"> 11% increase in damage per round</label>
+                    <label><input type="checkbox" value="12% increase in damage per round"> 12% increase in damage per round</label>
+                    <label><input type="checkbox" value="15% increase in damage per round"> 15% increase in damage per round</label>
+                    <label><input type="checkbox" value="2% increase in Stardust per successful mission"> 2% increase in Stardust per successful mission</label>
+                </div>
+            </div>
+ <!-- CACNEA -->
+            <div class="section">
+                <h4><button id="mining-btn" class="dropdown-btn">Mining Mission</button></h4>
+                <div id="mining-options" class="dropdown-content" style="display: none;">
+                    <label><input type="checkbox" value="7% increase in damage per hour on Common mining missions"> 7% increase in damage per hour on Common mining missions</label>
+                </div>
+            </div>
+
+            <div class="section">
+                <h4><button id="passive-btn" class="dropdown-btn">Homebase Passive</button></h4>
+                <div id="passive-options" class="dropdown-content" style="display: none;">
+                    <label><input type="checkbox" value="7% increase in damage per hour on Common mining missions"> 7% increase in damage per hour on Common mining missions</label>
+                </div>
+            </div>
+
+            <div class="section">
+                <h4><button id="royale-btn" class="dropdown-btn">Battle Royale</button></h4>
+                <div id="royale-options" class="dropdown-content" style="display: none;">
+                    <label><input type="checkbox" value="7% increase in damage per hour on Common mining missions"> 7% increase in damage per hour on Common mining missions</label>
+                </div>
+            </div>
+
+            <!-- Add more sections for other options -->
+        </div>
+
+        <!-- Right Content (Squad & Character Matches) -->
+        <div class="right-content">
+            <!-- Squad Section -->
+            <div class="squad">
+                <h1>Your Squad</h1>
+                <div class="squad-squares">
+                    <div class="squad-container" id="square1"></div>
+                    <div class="squad-container" id="square2"></div>
+                    <div class="squad-container" id="square3"></div>
+                </div>
+            </div>
+
+            <!-- Stacked Abilities -->
+            <div class="squad-info">
+                <p>PVP: <span id="pvp-info"></span></p>
+                <p>PVE: <span id="pve-info"></span></p>
+                <p>Boss Battle: <span id="boss-info"></span></p>
+                <p>Battle Royale: <span id="br-info"></span></p>
+                <p>Mining: <span id="mining-info"></span></p>
+                <p>Passive: <span id="passive-info"></span></p>
+            </div>
+
+            <!-- Character Matches Section -->
+            <h3>Characters Matching Your Search</h3>
+            <div class="character-list" id="character-list">
+                <!-- Dynamically generated character cards will go here -->
+                <!-- Example Card -->
+                <div class="character-card">
+                    <img src="path/to/image" alt="Star Wolf #101">
+                    <h4>Star Wolf #101</h4>
+                    <p>Description of Star Wolf</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="menu.js"></script>
+    <script src="search.js"></script>
+</body>
+</html>
